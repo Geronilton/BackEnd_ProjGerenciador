@@ -17,8 +17,8 @@ Esta é uma aplicação API construída com Express que se conecta a um banco de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sua-aplicacao.git
-   cd sua-aplicacao
+   git clone https://github.com/Geronilton/BackEnd_ProjGerenciador.git
+   cd BackEnd_ProjGerenciador
 
 2. Instale as dependências:
     npm install
