@@ -40,8 +40,11 @@ Esta é uma aplicação API construída com Express que se conecta a um banco de
     - Login
 
     URL: /session
+   
     Método: POST
+   
     Corpo da Requisição:
+   
         {
         "email": "email@exemplo.com",
         "password": "senha123"
@@ -79,7 +82,7 @@ Esta é uma aplicação API construída com Express que se conecta a um banco de
     Método: DELETE
 
 
-2. Produtos
+3. Produtos
 
     - Criar Produto
 
@@ -141,7 +144,7 @@ Esta é uma aplicação API construída com Express que se conecta a um banco de
         "quantity": 5
         }
 
-3. Servidor
+4. Servidor
 
 - Status do Servidor
     URL: /
